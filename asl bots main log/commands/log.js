@@ -35,7 +35,7 @@ module.exports = {
             .setTimestamp()
             .setThumbnail(user.displayAvatarURL({ dynamic: true, size: 128 })) 
             .setAuthor({ name: user.tag, iconURL: user.displayAvatarURL({ dynamic: true }) });
-          // Yanıtı herkese göster
+ 
           return await interaction.editReply({ embeds: [embed] });
         }
       } else {
