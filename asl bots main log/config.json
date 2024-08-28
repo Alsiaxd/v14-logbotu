@@ -1,0 +1,17 @@
+  {
+    
+    "CHANNEL_IDS": {
+      "CHANNEL_CREATE": "",
+      "CHANNEL_DELETE": "",
+      "CHANNEL_UPDATE": "",
+      "ROLE_CREATE": "",
+      "ROLE_DELETE": "",
+      "ROLE_UPDATE": "",
+      "MESSAGE_DELETE": "",
+      "BAN": "",
+      "USER_LOG": "",
+      "BAN_LOG": "",
+      "UNBAN_LOG": "",
+      "VOICE": ""
+    }
+  }
